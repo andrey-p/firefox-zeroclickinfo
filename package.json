@@ -75,6 +75,42 @@
                 "name": "dev",
                 "value": false,
                 "title": "Show debug information"
+        },
+        {
+                "type": "string",
+                "name": "bang_0_trigger",
+                "value": "",
+                "title": "Bang 0 trigger"
+        },
+        {
+                "type": "string",
+                "name": "bang_0_url",
+                "value": "",
+                "title": "Bang 0 URL"
+        },
+        {
+                "type": "string",
+                "name": "bang_1_trigger",
+                "value": "",
+                "title": "Bang 1 trigger"
+        },
+        {
+                "type": "string",
+                "name": "bang_1_url",
+                "value": "",
+                "title": "Bang 1 URL"
+        },
+        {
+                "type": "string",
+                "name": "bang_2_trigger",
+                "value": "",
+                "title": "Bang 2 trigger"
+        },
+        {
+                "type": "string",
+                "name": "bang_2_url",
+                "value": "",
+                "title": "Bang 2 URL"
         }
     ]
 }
